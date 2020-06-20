@@ -1,6 +1,11 @@
+---
+
 layout: page
 title: "Ticket Help"
 permalink: /tickethelp/
+
+---
+
 # Help with Tickets
 
 ## Creating a base ticket channel
