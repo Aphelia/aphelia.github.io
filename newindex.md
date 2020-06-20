@@ -16,8 +16,9 @@ In fact, two of our most recent features (tickets and a Minecraft bridge) were r
 
 # Links
 ## Getting started
-* [Invite Aphelia](https://aphelia.github.io/invite)
-* [Support on Discord](https://aphelia.github.io/discord)
+* [Invite Aphelia](/invite)
+* [Support on Discord](/discord)
 
 ## Help guides
- * [Setting up the ticket system](https://aphelia.github.io/tickethelp)
+* [Quickstart](/quickstart)
+* [Setting up the ticket system](/tickethelp)
