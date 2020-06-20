@@ -3,7 +3,7 @@
 layout: default
 title: "Aphelia"
 description: "A Discord bot that allows for custom messages, tickets, game-connections, and more!"
-permalink: /tickethelp/
+permalink: /newindex/
 
 ---
 
