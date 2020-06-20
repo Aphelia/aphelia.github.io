@@ -21,4 +21,5 @@ In fact, two of our most recent features (tickets and a Minecraft bridge) were r
 
 ## Help guides
 * [Quickstart](/quickstart)
+* [Command List](/commands)
 * [Setting up the ticket system](/tickethelp)
