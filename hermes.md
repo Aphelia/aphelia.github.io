@@ -13,7 +13,7 @@ it's the *only* system that does not require you to set up your own Discord bot 
 still three small steps you must take to install Hermes:
 
 ## Instructions
-* Install Hermes Universal as a plugin on your server. You can currently get it by asking for a beta from the team through [our discord](/discord/),
-as it is currently only in beta, however, we'll be making a public download within a week.
-* Run /token in your server. Copy and paste the command to a Discord channel which Aphelia is in. 
-* Run the command you just pasted. You're done! Everything is now linked from Minecraft to Discord!
+* If you haven't already, [invite Aphelia](/invite/)
+* Install Hermes Universal as a plugin on your server. It's available on [our discord](/discord/). We'll soon be uploading it to download from other sites (like SpigotMC), however, we don't want to do that just yet as there are still many more features to come.
+* Run /token in your server. Copy and paste the command to a Discord channel which Aphelia is in. If you've changed Aphelia's prefix, you need to adjust the command accordingly.
+* Send the command you just copied into the channel that you wish to act as the bridge. You're done! Everything is now linked from Minecraft to Discord!
