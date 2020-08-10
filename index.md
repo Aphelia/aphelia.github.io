@@ -8,18 +8,15 @@ permalink: /
 ---
 
 # About
-Aphelia is a Discord bot that allows you to create tickets, custom commands, economies, and more. Aphelia strives 
-to be very simple to use (as seen in the name "Aphelia", the Greek goddess of simplicity), while still being feature-rich.
-Aphelia is under heavy development, meaning that new features are released to stable almost every week (yes, plural), and
-features are released to Beta almost every other day. We do take feature requests very seriously, and work on them a lot.
-In fact, two of our most recent features (tickets and a Minecraft bridge) were requested by a user!
+Aphelia is *more than* just another Discord bot: it allows you to create tickets, custom commands, economies, all within Discord but also branches to features outside of Discord: [hermes](/hermes/) currently being the most used. Aphelia manages to have new features released frequently while still offerring unparalleled simplicity. Simplicity without sacrificing features and listening to our end-users are the two core principles that define Aphelia: we want the **end user** to have the best experience possible, as you, the end user, are the one that Aphelia should benefit the most. Simplicity is baked in to all of our products—tickets use Discord's own interface for setting up permissions, and Hermes takes fewer than 5 steps to install. We're also always listening to our users: many of our most popular features all started from a user created suggestion—many of them through the Aphelia !suggest command (which you can also use yourself to make a suggestion system on your Discord ) on [our Discord](/discord/). [Try Aphelia out now!](/quickstart/)
 
 # Links
 ## Getting started
-* [Invite Aphelia](/invite)
-* [Support on Discord](/discord)
+* [Invite Aphelia](/invite/)
+* [Support on Discord](/discord/)
 
 ## Help guides
-* [Quickstart](/quickstart)
-* [Command List](/commands)
-* [Setting up the ticket system](/tickethelp)
+* [Quickstart](/quickstart/)
+* [Command List](/commands/)
+* [Setting up the ticket system](/tickethelp/)
+* [Setting up Hermes](/hermes/)
