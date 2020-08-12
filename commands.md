@@ -3,7 +3,7 @@
 layout: default
 title: "Commands"
 description: "The list of commands and their usages"
-permalink: /commands
+permalink: /commands/
 
 ---
 
