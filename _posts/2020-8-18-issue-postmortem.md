@@ -13,3 +13,5 @@ Aphelia stable users. However, this didn't affect users until today, as we cache
 Additionally, when a user modifies data of a module with cached data, it writes the cache to disk. This is why it didn't affect all users. However, when we ran 
 a global restart, some guilds didn't have the data written to disk, thus causing some guilds to lose data. I'm very sorry for this issue, and will make sure 
 it doesn't happen again.
+
+An unrelated issue also happened on beta. I forgot to allow all users to use it. That was unrelated and was due to a misconfigured firewall.
